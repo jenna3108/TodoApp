@@ -5,6 +5,8 @@ Functionalities
 2) Remove task item
 3) Complete task item
 
+Firebase URL - https://reacttodoapp-197df.firebaseio.com/
+
 ## Add task item
 - Insert your task in the textbbox
 - Press 'Add New Task' button to save item
