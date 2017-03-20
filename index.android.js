@@ -139,11 +139,11 @@ export default class demo extends React.Component{
         </Content>
         <Form>
           <Item floatingLabel>
-            <Label>Task</Label>
+            <Label>Add a new task...</Label>
             <Input onChangeText={(text) => this.setState({newTodo: text})} value={this.state.newTodo}/>
           </Item>
           <Button onPress={ () => this.addItem()} style={styles.addNewTaskBtn}>
-              <Text>Add New Task</Text>
+              <Text>Save</Text>
             </Button>
         </Form>
       </Container>
