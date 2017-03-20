@@ -8,8 +8,8 @@ Functionalities
 Firebase URL - https://reacttodoapp-197df.firebaseio.com/
 
 ## Add task item
-- Insert your task in the textbbox
-- Press 'Add New Task' button to save item
+- Insert your task in the textbbox 'Add a new task...'
+- Press 'Save' button to save item
 - Task will be added to database and list view is updated
 
 ## Remove task item
