@@ -35,8 +35,6 @@ import styles from './style';
 import Icon from 'react-native-vector-icons/FontAwesome';
 
 var Firebase = require('firebase');
-var green = '#1DA664';
-var red = '#DE5347';
 
 export default class demo extends React.Component{
   constructor(props) {
